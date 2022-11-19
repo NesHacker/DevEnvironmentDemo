@@ -16,7 +16,7 @@
 ; "nes" linker config requires a STARTUP section, even if it's empty
 .segment "STARTUP"
 
-; Main code segement for the program
+; Main code segment for the program
 .segment "CODE"
 
 reset:
